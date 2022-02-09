@@ -1,0 +1,277 @@
+사이트 분석
+https://pofo.themezaa.com/home-classic-interactive-agency/
+
+콘텐츠 영역: 1170PX (좌우 여백: 0 15PX 포함) -> 1140px
+
+헤더
+width: 100% 
+height: 60px
+콘텐츠 영역: 1170PX
+좌측: 로고 150*26px
+중간 우측: 메인 메뉴 좌우 여백 20px
+폰트: Montserrat
+폰트 사이즈: 12px
+폰트 굵기: 600
+컬러: #232323
+서브메뉴: #9d9d9d;
+우측: 아이콘 사이드 메뉴 너비 146px
+
+좌측 박스: 105
+우측 박스: 1035 
+
+스크롤이 아래로 내려가면 헤더가 위로 부드럽게 안 보일 때까지 올라가고
+스크롤이 위로 올라가면 헤더가 아래로 부드럽게 내려온다 (메뉴 선택 가능한 상태)
+
+메인
+
+section1
+width: 100%  
+height: 100%
+메인 슬라이드
+3 개 이미지
+3 초 간격
+Full Screen 제작
+Drag & Drop 기능 구현
+타이머 제어
+일정 시간 지나면 
+
+section2
+패딩: 130px 0;
+배경: #f7f7f7
+
+section3
+패딩: 130px 0;
+배경: #1c1c1c
+
+section4
+width: 100% 
+메뉴 박스 높이 180px
+
+반응형 & 액티비티 애니메이션 갤러리
+버튼 클릭에 따른
+
+
+section5
+패딩: 130px 0;
+배경: #fff
+
+
+section6
+width: 100%  
+패딩: 0
+
+
+section7
+패딩: 130px 0;
+배경: #fff
+
+
+section8
+배경 : #1c1c1c;
+
+section9
+
+section10
+
+높이: 80px
+패딩: 60px 363px;
+배경: #ff214f;
+
+footer
+너비: 100%  
+padding: 95px 0 60px 0;
+배경: #1c1c1c;
+
+
+
+-page- 서브
+About Us Simple
+About Us Classic
+About Us Modern
+About Me
+
+Services Simple
+Services Classic
+Services Modern
+
+Contact Simple
+Contact Classic
+Contact Classic – Style 02
+Contact Modern
+
+Team Simple
+Team Classic
+
+Our Clients
+Error 404
+Coming Soon
+Coming Soon – Style 02
+Faq
+Maintenance
+Search Result
+Pricing
+
+
+
+
+-PORTFOLIO-
+
+1
+GRID – FULL WIDTH LAYOUTS
+Portfolio Grid Overlay
+Portfolio Grid With Icon
+Portfolio Grid Transform
+Portfolio Grid Zooming
+
+
+MASONRY – FULL WIDTH LAYOUTS
+Portfolio Masonry Overlay
+Portfolio Masonry With Icon
+
+
+METRO – FULL WIDTH LAYOUTS
+Portfolio Metro Overlay
+Portfolio Metro With Icon
+Portfolio Metro Transform
+Portfolio Metro Zooming
+
+
+OTHER – FULL WIDTH LAYOUTS
+Portfolio Image Gallery
+Portfolio Justified
+Portfolio Carousel
+Portfolio Parallax
+
+2
+GRID – BOXED LAYOUTS
+Portfolio Grid Overlay
+Portfolio Grid With Icon
+Portfolio Grid Transform
+Portfolio Grid Zooming
+
+
+MASONRY – BOXED LAYOUTS
+Portfolio Masonry Overlay
+Portfolio Masonry With Icon
+
+
+METRO – BOXED LAYOUTS
+Portfolio Metro Overlay
+Portfolio Metro With Icon
+Portfolio Metro Transform
+Portfolio Metro Zooming
+
+
+OTHER – BOXED LAYOUTS
+Portfolio Image Gallery
+Portfolio Justified
+Portfolio Carousel
+Portfolio Parallax
+
+
+3
+SINGLE PROJECT PAGE
+Single Project Page 01
+Single Project Page 02
+Single Project Page 03
+Single Project Page 04
+Single Project Page 05
+Single Project Page 06
+Single Project Page 07
+Single Project Page 08
+
+
+PORTFOLIO COLUMNS
+Portfolio Two Columns
+Portfolio Three Columns
+Portfolio Four Columns
+Portfolio Five Columns
+
+BLOG
+
+Blog Standard
+Blog Classic
+Blog List
+Blog Grid
+Blog Masonary
+Blog Simple
+Blog Clean
+Blog Images
+Blog Only Text
+Post Layout
+Post Type
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HEADER STYLES
+Transparent Header
+White Header
+Dark Header
+Header With Push
+Center Navigation
+Center Logo
+Top Logo
+One Page Navigation
+Hamburger Menu
+Hamburger Menu Half
+Left Menu Classic
+Left Menu Modern
+
+
+
+
+FOOTER
+Footer Standard
+Footer Standard Dark
+Footer Classic
+Footer Classic Dark
+Footer Clean
+Footer Clean Dark
+Footer Modern
+Footer Modern Dark
+Footer Center Logo
+Footer Center Logo Dark
+Footer Strip
+Footer Strip Dark
+Footer Center Logo 02
+Footer Center Logo 02 Dark
+Footer Clean Modern Dark
+Footer Clean Modern
+
+
+PAGE TITLE
+Left Alignment
+Right Alignment
+Center Alignment
+Dark Style
+Big Typography
+Parallax Image Background
+Image After Breadcrumbs
+Gallery Background
+Background Video
+Mini Version
+
+
+GALLERY
+Single Image Lightbox
+Lightbox Gallery
+Zoom Gallery
+Metro Gallery
+Justified Gallery
+Popup With Form
+Modal Popup
+Open Youtube Video
+Open Vimeo Video
+Open Google Map
